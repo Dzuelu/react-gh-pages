@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "5.0.0",
+  "homepage": "https://dzuelu.github.io/react-gh-pages",
   "private": true,
   "dependencies": {
     "react": "^18.3.1",
