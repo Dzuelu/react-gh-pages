@@ -1,19 +1,4 @@
-# Deploying a React App* to GitHub Pages
-
-\* created using `create-react-app`
-
-# Introduction
-
-In this tutorial, I'll show you how you can create a React app and deploy it to GitHub Pages.
-
-To create the React app, I'll be using [`create-react-app`](https://create-react-app.dev/), which is a tool people can use to create a React app from scratch. To deploy the React app, I'll be using [`gh-pages`](https://github.com/tschaub/gh-pages), which is an npm package people can use to deploy things to [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages), a free web hosting service provided by GitHub.
-
-If you follow along with this tutorial, you'll end up with a new React app—hosted on GitHub Pages—which you can then customize.
-
-## Translations
-
-This tutorial has been translated from its original English into the following languages:
-- [Traditional Chinese](https://github.com/gitname/react-gh-pages/issues/167#issuecomment-1925551338) (credit: [@creaper9487](https://github.com/creaper9487))
+# Deploying a React App* to GitHub Pages Template
 
 # Tutorial
 
