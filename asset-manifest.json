@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/factorio-blueprint-decoder/static/css/main.706caccf.css",
+    "main.js": "/factorio-blueprint-decoder/static/js/main.b311f352.js",
+    "static/js/453.ed3810f9.chunk.js": "/factorio-blueprint-decoder/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/factorio-blueprint-decoder/index.html",
+    "main.706caccf.css.map": "/factorio-blueprint-decoder/static/css/main.706caccf.css.map",
+    "main.b311f352.js.map": "/factorio-blueprint-decoder/static/js/main.b311f352.js.map",
+    "453.ed3810f9.chunk.js.map": "/factorio-blueprint-decoder/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.706caccf.css",
+    "static/js/main.b311f352.js"
+  ]
+}
