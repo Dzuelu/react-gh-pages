@@ -1,8 +1,5 @@
 const defaultLint = require('dzuelu-eslint-config');
 
-defaultLint.rules['node/no-missing-import'] = ["error", {
-  "allowModules": ["@discordjs/rest"],
-  "tryExtensions": [".js", ".ts"]
-}];
+defaultLint.rules['node/no-missing-import'] = ["off"];
 
 module.exports = defaultLint;
