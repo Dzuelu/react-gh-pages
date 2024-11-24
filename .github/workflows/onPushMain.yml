@@ -6,7 +6,7 @@ on:
       - main
       - master
 
-concurrency: 
+concurrency:
   group: ${{ github.ref_name }}
   cancel-in-progress: true
 
@@ -24,7 +24,7 @@ jobs:
         with:
           node-version: 20
 
-      - run: npm install -g yarn 
+      - run: npm install -g yarn
         shell: sh
 
       - name: Setup GIT
@@ -35,6 +35,12 @@ jobs:
         shell: sh
 
       - run: yarn install
+        shell: sh
+
+      - run: yarn lint
+        shell: sh
+
+      - run: yarn test
         shell: sh
 
       - run: yarn build
